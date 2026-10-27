@@ -5,7 +5,7 @@ BrandGuard AI is an AI-powered web application designed to help businesses revie
 
 The goal is to help marketing teams create consistent, trustworthy, and brand-compliant content while reducing the time required for manual reviews.
 
-🔗 **Live Demo:** [Add your Streamlit Community Cloud URL here]  
+ 
 💻 **GitHub Repository:** https://github.com/ananya722-pixel/BrandGuard-AI
 
 ---
